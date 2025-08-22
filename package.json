@@ -1,6 +1,6 @@
 {
 "homepage":"https://sham1421.github.io/secret-message",
-  "name": "secret-message-encoder1",
+  "name": "secret-message",
   "private": true,
   "version": "0.0.0",
   "type": "module",
